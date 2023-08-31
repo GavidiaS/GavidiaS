@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/R36BkxW/Banner.png" alt="BannerImage" />
+
 # Hi, I'm Santiago 👋
 
 - 👨🏻‍💻 I'm a passionate Fullstack Developer with experience in personal and academic projects. My focus spans both the client and server sides, enabling me to create comprehensive applications. I've gained a strong grasp of current technologies. I've tackled technical challenges and demonstrated quick learning skills in my personal projects. Now, I'm seeking to join a professional team to apply my expertise and continue growing as a developer.
